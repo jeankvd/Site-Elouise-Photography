@@ -25,6 +25,10 @@ p{
 	font-size: 1em;
 }
 
+iframe {
+	border: none;
+}
+
 /*GENERAL LINKS*/
 
 a {
